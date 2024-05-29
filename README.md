@@ -1,2 +1,2 @@
 ## Class Diagram
-![Grade Calculator Class Diagram drawio](https://github.com/DavidRHannah/grade-calculator/assets/165863032/0c311370-8d65-4d4f-a835-c1dc6f8bf0ea)
+![Grade Calculator Class Diagram drawio (1)](https://github.com/DavidRHannah/grade-calculator/assets/165863032/fe41b494-9057-4b9d-b13f-ece10c7c95da)
